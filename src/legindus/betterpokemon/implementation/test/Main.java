@@ -8,7 +8,7 @@ import legindus.betterpokemon.model.CellMap;
 import legindus.betterpokemon.view.CellMapPanel;
 
 /**
- *
+ * This is a main class
  * @author Nathan Dias {@literal <nathanxyzdias@gmail.com>}
  */
 public class Main {
